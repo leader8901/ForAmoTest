@@ -1,0 +1,5 @@
+Django==4.0.2
+Pillow==9.0.1
+pyTelegramBotAPI==4.4.0
+
+

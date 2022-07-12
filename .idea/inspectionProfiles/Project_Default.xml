@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="72">
+          <list size="73">
             <item index="0" class="java.lang.String" itemvalue="traitlets" />
             <item index="1" class="java.lang.String" itemvalue="cachier" />
             <item index="2" class="java.lang.String" itemvalue="tzlocal" />
@@ -77,6 +77,7 @@
             <item index="69" class="java.lang.String" itemvalue="pytz" />
             <item index="70" class="java.lang.String" itemvalue="aiosignal" />
             <item index="71" class="java.lang.String" itemvalue="Pillow" />
+            <item index="72" class="java.lang.String" itemvalue="python-environ" />
           </list>
         </value>
       </option>
